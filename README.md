@@ -9,5 +9,5 @@
 # Luhn algorithm
   The Luhn algorithm is a simple checksum formula used to validate a variety of   identification numbers, such as credit card numbers.
   
-  ![4](Luhn_Algorithm/Luhn1.png)
-  ![5](Luhn_Algorithm/Luhn2.png)
+  ![4](LuhnAlgorithm/Luhn1.png)
+  ![5](LuhnAlgorithm/Luhn2.png)
